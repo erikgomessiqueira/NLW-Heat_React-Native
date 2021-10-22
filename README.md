@@ -113,7 +113,7 @@ Se anida não clonou e configurou o servidor do [Repositório NLW-Heat_Node](htt
 
 Acesse o arquivo api.ts (./src/services/api.ts) e mude a baseURL, você precisa ter o IP da sua máquina (Ex: 192.168.0.0) e montar ela da seguinte forma:
 
-`http://192.168.0.0:4000`, ou seja, `http://IP/4000`
+`http://192.168.0.0:4000`, ou seja, `http://IP:4000`
 
 #### 6. Logar com Expo no terminal
 
