@@ -42,7 +42,7 @@ export function MessageList(){
                 messagesQueue.shift();
             }
         }, 3000);
-        
+         
         return () => clearInterval(timer);
     }, []);
 
