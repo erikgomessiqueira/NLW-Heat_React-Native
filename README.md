@@ -25,11 +25,9 @@
 <br>
 
 <div>
-  <p align="center">
-    <img alt="SignIn" height="300px" src="./.appMidia/signIn.png"/>
-    <img alt="SendMessage" height="300px" src="./.appMidia/SendMessage.png"/>
-    <img alt="Demonstration" height="300px" src="./.appMidia/video.gif"/>
-  </p>
+    <img alt="SignIn" height="500px" src="./.appMidia/signIn.png"/>
+    <img alt="SendMessage" height="500px" src="./.appMidia/SendMessage.png"/>
+    <img alt="Demonstration" height="500px" src="./.appMidia/video.gif"/>
 </div>
 
 
