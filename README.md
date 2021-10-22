@@ -28,9 +28,7 @@
   <p align="center">
     <img alt="SignIn" height="700px" src="./.appMidia/signIn.png"/>
     <img alt="SendMessage" height="700px" src="./.appMidia/SendMessage.png"/>
-    <video height="700px" autoplay muted>
-      <source src="./.appMidia/video.mp4"  type="video/mp4">
-    </video>
+    <img alt="Demonstration" height="700px" src="./.appMidia/video.gif"/>
   </p>
 </div>
 
